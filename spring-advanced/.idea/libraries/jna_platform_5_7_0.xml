@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jna-platform-5.7.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/380e5da2e4c1720993024d350f892d1f/jna-platform-5.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

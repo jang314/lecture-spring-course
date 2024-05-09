@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="antlr4-runtime-4.7.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/4d0d70187404fd687793ba6200185685/antlr4-runtime-4.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

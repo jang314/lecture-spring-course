@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hibernate-core-5.4.32.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.4.32.Final/99a5e10bf455337014c190e141ec631e9ff71663/hibernate-core-5.4.32.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

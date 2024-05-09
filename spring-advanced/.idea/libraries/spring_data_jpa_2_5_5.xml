@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-data-jpa-2.5.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.5.5/a1ad7a3a0b7f97ad59a77ec16dac63e58ae938db/spring-data-jpa-2.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

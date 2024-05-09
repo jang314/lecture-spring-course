@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org_codehaus_groovy_groovy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/o_fcf2d8866cd0f05a408e414f214e8b29/org_codehaus_groovy_groovy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

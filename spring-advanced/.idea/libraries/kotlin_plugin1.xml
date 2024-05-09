@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kotlin-plugin1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/1ecb4b48ea43203a765331aa73edba1f/kotlin-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

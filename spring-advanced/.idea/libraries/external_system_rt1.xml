@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="external-system-rt1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/o_212e28bb1d421bbf9eeb38079e72b341/external-system-rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

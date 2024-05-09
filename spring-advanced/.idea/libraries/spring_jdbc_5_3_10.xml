@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-jdbc-5.3.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.3.10/206882992cbfee0dc908e17b36cf285857e3fa99/spring-jdbc-5.3.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

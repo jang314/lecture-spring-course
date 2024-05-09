@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="grails-gradle-tooling1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/o_81908ee9f4c523db7121a7cc3838869f/grails-gradle-tooling.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

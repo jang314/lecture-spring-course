@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="httpclient-4.5.131">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/9010b96743ecdc47c4e1d875d3ef604c/httpclient-4.5.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

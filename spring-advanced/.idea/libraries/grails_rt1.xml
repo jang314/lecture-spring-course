@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="grails-rt1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/abd77f0c1a5d9b5bdb8dba98aff08822/grails-rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

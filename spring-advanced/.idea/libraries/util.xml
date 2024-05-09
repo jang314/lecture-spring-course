@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="util">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/d8afc712351dc25af67d3663479224ba/util.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-boot-loader-tools-2.5.51">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/c9a6339456040cf0b8d04d5e7c6e760e/spring-boot-loader-tools-2.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="httpcore-4.4.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/fc52ccd215b8a15ea184be70ebe2d8eb/httpcore-4.4.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

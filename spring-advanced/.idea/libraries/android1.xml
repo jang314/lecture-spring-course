@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/df6aa8ce84c642385967a77c33527067/android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

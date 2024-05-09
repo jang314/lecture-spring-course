@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-webmvc-5.3.10-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.3.10/5d18866080e3be2b3ca103291fb1f3fa2da20257/spring-webmvc-5.3.10-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

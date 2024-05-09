@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-boot-buildpack-platform-2.5.51">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/1d540d01950234c523732fd5fc2a8a4f/spring-boot-buildpack-platform-2.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

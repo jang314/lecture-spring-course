@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gradle-ext1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/c3605f111a26b35aa58c98df936b8fa4/gradle-ext.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

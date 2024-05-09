@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jackson-core-2.12.51">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/ab0719b0ccd8d07a908f58d3b2ecbc37/jackson-core-2.12.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

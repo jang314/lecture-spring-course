@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gradle-api-impldep-7.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/o_230e64132c08f6589291be619e49ac6e/gradle-api-impldep-7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

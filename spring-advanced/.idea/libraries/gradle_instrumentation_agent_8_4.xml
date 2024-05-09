@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gradle-instrumentation-agent-8.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/agents/gradle-instrumentation-agent-8.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dependency-management-plugin-1.1.31">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/0b82c8360c40190e40421d660b1f4ee9/dependency-management-plugin-1.1.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="micronaut1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/cae8bbe137c35d7dc61ee9aa7b982c49/micronaut.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

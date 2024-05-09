@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-extensions-ide1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/b46f62430c39d611c5cbb5e11e9aeaaa/android-extensions-ide.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

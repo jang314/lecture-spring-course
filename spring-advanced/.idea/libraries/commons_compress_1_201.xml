@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-compress-1.201">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/be94214d52586ec9e25c135d4c42b42e/commons-compress-1.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

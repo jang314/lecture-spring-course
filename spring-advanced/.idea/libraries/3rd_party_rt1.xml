@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="3rd-party-rt1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/jars-9/o_091297d76703bf3c56fb9177b7d71ace/3rd-party-rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

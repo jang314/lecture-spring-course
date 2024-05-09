@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-tx-5.3.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.3.10/2840cabc3b3d6b993f8dbb169eb36321c97fec85/spring-tx-5.3.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

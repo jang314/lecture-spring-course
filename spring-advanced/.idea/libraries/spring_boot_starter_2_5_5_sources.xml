@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-boot-starter-2.5.5-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proxy/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/2.5.5/4c687a42c4a3c6ae57be684ebe6eb88c87162521/spring-boot-starter-2.5.5-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
